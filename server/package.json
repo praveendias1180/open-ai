@@ -1,0 +1,24 @@
+{
+  "name": "openai-server",
+  "version": "1.0.0",
+  "description": "Welcome to OpenAI Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveendias1180/open-ai.git"
+  },
+  "keywords": [
+    "openai",
+    "ai",
+    "praveendias1180"
+  ],
+  "author": "Praveen Dias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/praveendias1180/open-ai/issues"
+  },
+  "homepage": "https://github.com/praveendias1180/open-ai#readme"
+}
