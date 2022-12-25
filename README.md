@@ -30,6 +30,8 @@ npm run dev
 npm run server
 ```
 
+![](ai-setup.png)
+
 # Demo
 
 https://www.youtube.com/watch?v=Uw5RlFq0nSE
