@@ -1,15 +1,15 @@
 import express from 'express';
 import * as dotenv from 'dotenv';
 import cors from 'cors';
-import { Configuration, Configuration, OpenAIApi } from 'openai';
+import { Configuration, OpenAIApi } from 'openai';
 
 dotenv.config();
 
-const Configuration = new Configuration({
+const configuration = new Configuration({
     apiKey: process.env.OPENAI_API_KEY,
 });
 
-const openai = new OpenAIApi(Configuration);
+const openai = new OpenAIApi(configuration);
 
 const app = express();
 app.use(cors());
@@ -38,6 +38,9 @@ app.post('/', async (req, res) => {
             bot: response.data.choices[0].text,
         })
     } catch (e) {
-
+        console.log(e);
+        res.status(500).send({e});
     }
-})
+});
+
+app.listen(5000, () => console.log('AI is listening on port http://localhost:5000'));

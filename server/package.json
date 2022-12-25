@@ -2,9 +2,9 @@
   "name": "openai-server",
   "version": "1.0.0",
   "description": "Welcome to OpenAI Server",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "nodemon server"
   },
   "repository": {
     "type": "git",
