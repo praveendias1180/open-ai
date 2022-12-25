@@ -41,3 +41,9 @@ npm run server
 https://www.youtube.com/watch?v=Uw5RlFq0nSE
 
 ![](ai-yt.png)
+
+# Teachable Machine
+
+https://teachablemachine.withgoogle.com/
+
+![](teachable-machine.png)
