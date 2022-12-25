@@ -8,9 +8,13 @@ OpenAI’s mission is to ensure that artificial general intelligence (AGI)—by 
 
 OpenAI will attempt to directly build safe and beneficial AGI, but will also consider th mission fulfilled if OpenAI work aids others to achieve this outcome.
 
+https://beta.openai.com/docs/introduction
+
 # Instructions
 
 ## Create OpenAI account and get an API key
+
+https://beta.openai.com/account/api-keys
 
 Create a `.env` file inside server directory.
 
