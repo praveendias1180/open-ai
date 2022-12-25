@@ -7,3 +7,9 @@ OpenAI is an AI research and deployment company. OpenAI mission is to ensure tha
 OpenAI’s mission is to ensure that artificial general intelligence (AGI)—by which means highly autonomous systems that outperform humans at most economically valuable work—benefits all of humanity.
 
 OpenAI will attempt to directly build safe and beneficial AGI, but will also consider th mission fulfilled if OpenAI work aids others to achieve this outcome.
+
+# Demo
+
+https://www.youtube.com/watch?v=Uw5RlFq0nSE
+
+![](ai-yt.png)
