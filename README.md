@@ -34,16 +34,9 @@ npm run dev
 npm run server
 ```
 
-![](ai-setup.png)
+<<<<<<< HEAD
 
-# Demo
 
-https://www.youtube.com/watch?v=Uw5RlFq0nSE
+=======
+>>>>>>> fcbd0917d1ffabbc59d20b843a041515b577b1e6
 
-![](ai-yt.png)
-
-# Teachable Machine
-
-https://teachablemachine.withgoogle.com/
-
-![](teachable-machine.png)
