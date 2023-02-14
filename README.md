@@ -34,6 +34,9 @@ npm run dev
 npm run server
 ```
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> fcbd0917d1ffabbc59d20b843a041515b577b1e6
 
